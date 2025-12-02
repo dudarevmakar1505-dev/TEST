@@ -1,3 +1,3 @@
 print ("Hellii")
 
-print ("MAKAR")
+print ("MAKh")
