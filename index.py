@@ -1,8 +1,3 @@
-print ("Hellii")
-
-print ("MAKH")
-
-
-
-a = (12+12)
-print(a)
+def na (e,y):
+    return e +y
+print (na(34,67))
