@@ -1,3 +1,8 @@
 print ("Hellii")
 
-print ("MAKh")
+print ("MAKH")
+
+
+
+a = (12+12)
+print(a)
