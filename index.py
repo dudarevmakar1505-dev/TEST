@@ -6,7 +6,9 @@
 class Person:
     name = "Макар"
     age = 10
-print(f"Привіт, мене звати {Person.name} мені {Person.age} років")
+    def introduce(self):
+        print(f"Привіт, мене звати {self.name} мені {self.age} років.")
 
-g = (Person ("Makar",10))
+
+g =Person()
 g.introduce()
