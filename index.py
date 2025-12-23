@@ -3,12 +3,12 @@
 # print (na(34,67))
 
 
-class Person:
+class AAA:
     name = "Макар"
     age = 10
     def introduce(self):
         print(f"Привіт, мене звати {self.name} мені {self.age} років.")
 
 
-g =Person()
-g.introduce()
+O =AAA()
+O.introduce()
