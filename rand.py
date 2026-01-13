@@ -1,1 +1,1 @@
-print('ПРИВІТ')
+print('ghbdsn')
