@@ -1,1 +1,1 @@
-print('ADpu')
+print('ПРИВІТ')
